@@ -1,4 +1,4 @@
-# Machine‑Learning Algorithms Sandbox
+# Classical Machine‑Learning Algorithm Implementations
 
 A collection of **hands‑on Jupyter notebooks** that re‑implement core machine‑learning algorithms from scratch and walk through real‑world datasets, complete with exploratory analysis, model training, evaluation and speed/accuracy trade‑off experiments.
 
